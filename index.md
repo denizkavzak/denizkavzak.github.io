@@ -8,7 +8,7 @@ author: Deniz Kavzak Ufuktepe
 
 | - | - |
 |---|---|
-| I am a Ph.D. student in Computer Science at the [University of Missouri-Columbia (MU)](https://missouri.edu/). I am also a member of the [Computational Imaging & Visualization Analysis (CIVA) Lab](http://cell.missouri.edu/) at MU. I received my M.Sc. at the [Computer Engineering Department](https://ceng.iyte.edu.tr) of the [Izmir Institute of Technology (IZTECH)](https://ceng.iyte.edu.tr). My research interests include Image Processing, Biomedical Image Analysis, Machine Learning, Computer Vision, Software Testing, Metaheuristic Optimization Algorithms, Evolutionary Algorithms. |   <!-- ![](/image/headshot.png){:height="720px" width="1200px"} --> |
+| I am a Ph.D. student in Computer Science at the [University of Missouri-Columbia (MU)](https://missouri.edu/). I am also a member of the [Computational Imaging & Visualization Analysis (CIVA) Lab](http://cell.missouri.edu/) at MU. I received my M.Sc. at the [Computer Engineering Department](https://ceng.iyte.edu.tr) of the [Izmir Institute of Technology (IZTECH)](https://ceng.iyte.edu.tr). My research interests include Image Processing, Biomedical Image Analysis, Machine Learning, Computer Vision, Software Testing, Metaheuristic Optimization Algorithms, Evolutionary Algorithms. |  |
 
 [Google Scholar](https://scholar.google.com/citations?user=9MiQL2QAAAAJ&hl=en)  
 [LinkedIn](https://www.linkedin.com/in/deniz-kavzak-ufuktepe-62b341104/)  
