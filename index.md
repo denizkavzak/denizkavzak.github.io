@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Deniz Kavzak Ufuktepe
-tagline: denizkavzak (at) gmail.com
+tagline: deniz.kavzak (at) gmail.com
 description: Deniz Kavzak Ufuktepe, Ph.D. Student in Computer Science, University of Missouri-Columbia
 author: Deniz Kavzak Ufuktepe
 ---
