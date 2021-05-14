@@ -20,9 +20,11 @@ author: Deniz Kavzak Ufuktepe
 
 #### International Conference and Workshop Papers
 
-Alicia Esquivel Morel, Deniz Kavzak Ufuktepe, Robert Ignatowicz, Alexander Riddle,  Chengyi Qu, Prasad Calyam, Kannappan Palaniappan, "Enhancing Network-edge Connectivity and Computation Security in Drone Video Analytics", IEEE Applied Imagery Pattern Recognition , 2020
+Ekincan Ufuktepe, Deniz Kavzak Ufuktepe, Korhan Karabulut, "MKEA-TCP: A Mutant Kill-based Local Search Augmented Evolutionary Algorithm Approach for Test Case Prioritization", IEEE Computer Software and Applications Conference (COMPSAC), (Accepted, to appear), 2021
 
-Deniz Kavzak Ufuktepe, Kannappan Palaniappan, Melissa Elmali, Tobias I. Baskin, "RTip: A Fully Automated Root Tip Tracker for Measuring Plant Growth With Intermittent Perturbations", IEEE International Conference on Image Processing, 2020 [[pdf]](),[[source code]]()
+Alicia Esquivel Morel, Deniz Kavzak Ufuktepe, Robert Ignatowicz, Alexander Riddle,  Chengyi Qu, Prasad Calyam, Kannappan Palaniappan, "Enhancing Network-edge Connectivity and Computation Security in Drone Video Analytics", IEEE Applied Imagery Pattern Recognition (AIPR), 2020
+
+Deniz Kavzak Ufuktepe, Kannappan Palaniappan, Melissa Elmali, Tobias I. Baskin, "RTip: A Fully Automated Root Tip Tracker for Measuring Plant Growth With Intermittent Perturbations", IEEE International Conference on Image Processing (ICIP), 2020 [[pdf]](),[[source code]]()
 
 Deniz Kavzak Ufuktepe, Jaired Collins, Hadi AliAkbarpour, Guna Seetharaman, Kannappan Palaniappan, "Video stabilization for robust moving target detection for onboard low altitude UAV tracking", SPIE  Geospatial Informatics X, 2020 [[pdf]](),[[source code]]()
 
