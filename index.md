@@ -32,7 +32,7 @@ Deniz Kavzak Ufuktepe, Jaired Collins, Hadi AliAkbarpour, Guna Seetharaman, Kann
 #### Journal Papers
 <!-- Ufuktepe E., Tuglular T., "Predicting Future Code Changes with Markov Chains", 2020, (Manuscript in Preparation) -->
 
-Deniz Kavzak Ufuktepe, Tolga Ayav, Fevzi Belli, "Test Input Generation from Cause Effect Graphs", Software Quality Journal, Under revision [[pdf]](), [[source code]]()
+Deniz Kavzak Ufuktepe, Tolga Ayav, Fevzi Belli, "Test Input Generation from Cause Effect Graphs", Software Quality Journal, 2021 [[pdf]](https://rdcu.be/cmO4E), [[source code]](https://github.com/denizkavzak/TOUCH)
 
 #### National Conference Papers
 
