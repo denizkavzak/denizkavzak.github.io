@@ -36,7 +36,7 @@ Deniz Kavzak Ufuktepe, Tolga Ayav, Fevzi Belli, "Test Input Generation from Caus
 
 #### National Conference Papers
 
-Deniz Kavzak Ufuktepe, Tolga Ayav, Fevzi Belli, "Test Input Generation from Cause Effect Graphs" (In Turkish), 10. Ulusal Yazilim Muhendisligi Sempozyumu, UYMS 2016 [[pdf]]()
+Deniz Kavzak Ufuktepe, Tolga Ayav, Fevzi Belli, "Test Input Generation from Cause Effect Graphs" (In Turkish), 10. Ulusal Yazilim Muhendisligi Sempozyumu, UYMS 2016
 
 
 #### Theses
